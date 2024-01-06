@@ -1,31 +1,43 @@
-# Wake-on-line-tech-line
-this It's temporary record for my self confiaratuion progress for my tech line: Wake on line,
-there is ideal from:  https://www.google.com/search?q=how+to+remotely+start+a+PC&oq=how+to+remotely+start+a+PC+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQkxNzc3MGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+# Wake-on-Line Tech Line
 
-there is basica introduce for this tech: https://en.wikipedia.org/wiki/Wake-on-LAN
+This is a temporary record for my configuration progress for my tech line: Wake on Line.
 
-and Then the start gudie:
-A. Reading part
-https://uk.pcmag.com/networking/137906/how-to-turn-on-your-computer-from-across-the-house-with-wake-on-lan
+## Inspiration
 
-https://www.thetechedvocate.org/how-to-remotely-turn-on-your-pc-over-the-internet/
+The idea was inspired by remote PC start-up techniques. More information can be found here:
+- [Google Search on How to Remotely Start a PC](https://www.google.com/search?q=how+to+remotely+start+a+PC)
 
-https://uk.pcmag.com/networking/137906/how-to-turn-on-your-computer-from-across-the-house-with-wake-on-lan
+## Basic Introduction
 
-https://www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/
+For a basic introduction to this technology, refer to:
+- [Wake-on-LAN on Wikipedia](https://en.wikipedia.org/wiki/Wake-on-LAN)
 
-https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/
+## Start Guide
 
-B.configuration part:
-1.Check the IP addres and check if it's the Dynamic or statistc. https://www.makeuseof.com/static-ip-address-windows-pc/
+### A. Reading Part
 
-2.Configuration the Routerstiing
-http://tplinkwifi.net/
+Here are some resources to get started:
 
-another Idela: connect to Local Vpn will be more selft / use dynamic IP / Use the Teamview tool which also mentioend the WKL(need pay-I guess it's basied on the VPN tech line)
+1. [PCMag UK - How to Turn On Your Computer From Across the House With Wake-on-LAN](https://uk.pcmag.com/networking/137906/how-to-turn-on-your-computer-from-across-the-house-with-wake-on-lan)
+2. [The Tech Edvocate - How to Remotely Turn On Your PC Over the Internet](https://www.thetechedvocate.org/how-to-remotely-turn-on-your-pc-over-the-internet/)
+3. [HowToGeek - How to Remotely Turn On Your PC Over the Internet](https://www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/)
+4. [HowToGeek - How to Forward Ports on Your Router](https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/)
 
+### B. Configuration Part
 
+Steps for configuration:
 
+1. **Check the IP Address**: Determine if it's dynamic or static. [Guide on How to Get a Static IP Address on a Windows PC](https://www.makeuseof.com/static-ip-address-windows-pc/)
+2. **Configure Router Settings**: Access router settings at [TPLink Router Settings](http://tplinkwifi.net/)
 
-Another tech route: https://www.microcenter.com/product/622539/pi4modelB8gb?src=raspberrypi
-https://raspberrytips.com/
+### Additional Ideas
+
+- Connecting to a local VPN for added security.
+- Use dynamic IP addressing.
+- Consider using TeamViewer, which also supports WOL (Wake-on-LAN) but might be based on VPN technology and require payment.
+
+## Exploring Alternate Tech Routes
+
+For those interested in exploring different technology routes, here are some resources:
+- [Raspberry Pi 4 Model B 8GB at Micro Center](https://www.microcenter.com/product/622539/pi4modelB8gb?src=raspberrypi)
+- [Raspberry Tips](https://raspberrytips.com/)
